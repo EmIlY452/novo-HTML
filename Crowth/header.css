@@ -9,3 +9,22 @@
     margin:0 20px;
     transition: border-color  0.3;
 }
+
+.cabeçalho:houver{
+    border-color: rgb(131,132,184);
+}
+
+.cabeçalho a{
+    text-decoration: none;
+    color: rgb(156,168,221);
+    padding: 10px;
+}
+
+.cabeçalho a:houver{
+    color:White;
+    cursor:pointer;
+}
+
+.titulo-header{
+    font-weight: bold;
+}
