@@ -114,4 +114,14 @@ width: auto;
     font-size:60px;
     width: auto;
 }
+.text_offer{
+    margin: 20px;
+    align-items: center;
+    font-size: center;
+    width: auto;
+}
+.text_offer{
+    font-size:20px;
+    color:white;
+}
 
