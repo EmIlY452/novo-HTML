@@ -1,0 +1,41 @@
+body{
+    background-image: url(imagem/imagem.jpg);
+    font-family: arial,sans-serif;
+    margin: 0;
+    padding: 0;img src="imagem.jpg">
+    background-color: #f5f5f5;
+}
+header{
+    background-color: #4caf50;img src="imagem.jpg">
+    max-width: 800px;
+    margin:auto;
+    padding:20px;
+}
+.produto{
+  background-color: #fff;
+  padding:20px;
+  margin-bottom:20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0,1);
+}
+.produto img{
+    max-width:100%;
+    height: auto;
+}img
+.produto h2{
+    margin-bottom:10px;
+}
+.produto p{
+    margin-top:0;
+}
+.produto button{
+    padding: 10px, 20px;
+    background-color: #4caf50;
+    border:none;
+    color:white;
+    cursor: pointer;img src="imagem.jpg">
+    border-radius: 5px;
+}
+.produto button:hover{
+    background-color:#45a049;
+}
